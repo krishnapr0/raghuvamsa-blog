@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Krishna Prahlaadh Ramachandran"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Physics, Sanskrit, music, life."
+  bio    : "Physics, Sanskrit, music, philosophy."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
